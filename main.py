@@ -25,3 +25,7 @@ print(max_price_func())
 import os
 
 print(os.getcwd())
+
+
+def get_hello():
+    return 'hello'
